@@ -286,7 +286,6 @@
     "world.entity.vehicle.VehicleEntityMixin",
     "world.food.FoodDataMixin",
     "world.gen.WorldGenRegionMixin",
-    "world.gen.feature.structure.SwampHutPieceMixin",
     "world.inventory.AbstractContainerMenuMixin",
     "world.inventory.AbstractFurnaceContainerMixin",
     "world.inventory.AnvilMenuMixin",
